@@ -1,4 +1,4 @@
-<img src="https://github.com/LukeHuckman/LukeHuckman/blob/master/hi-there.jpg" width=200px>
+<img src="https://github.com/LukeHuckman/LukeHuckman/blob/master/hi-there.jpg" alt="I'll be watching you sleep." width=200px>
 
 # Welcome to the dank side
 
